@@ -1,18 +1,19 @@
-## Getting Started
+## Estrucrtura de datos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Estudiante:** Erika Collaguazo
 
-## Folder Structure
+## Metodos Ordenamiento
 
-The workspace contains two folders by default, where:
+### Practica 1 - 20/OCT
+Metodo Sort Bubble
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Praxtica 2 - 21/OCT
+Metodo Sort Seleccion en Java y Python
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+salida de python
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+![alt text](image.png)
 
-## Dependency Management
+Salida de Java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![alt text](image-1.png)
